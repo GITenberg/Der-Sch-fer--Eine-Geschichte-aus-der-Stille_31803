@@ -1,0 +1,33 @@
+_repo: Der-Sch-fer--Eine-Geschichte-aus-der-Stille_31803
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Thon, Alfred
+    birthdate: 1886
+    gutenberg_agent_id: '35478'
+    url: http://www.gutenberg.org/2009/agents/35478
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mann, Franziska
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '9744'
+    url: http://www.gutenberg.org/2009/agents/9744
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31803'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: 'Der Schäfer: Eine Geschichte aus der Stille'
+url: http://www.gutenberg.org/ebooks/31803
